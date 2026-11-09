@@ -17,7 +17,7 @@ Jag har också använd mig av git och GitHub för att versionshantera repositori
 ## Test site
 
 Det går att se denna site på följande länk :
-(https://winstrand.github.io/martin-m4-dag10-github-och-publicering/)[https://winstrand.github.io/martin-m4-dag10-github-och-publicering/]
+<a href="https://winstrand.github.io/martin-m4-dag10-github-och-publicering/" target="_blank">https://winstrand.github.io/martin-m4-dag10-github-och-publicering/</a>
 
 Site thumbprint: ![site thumb](images/site_thumb.png)
 
