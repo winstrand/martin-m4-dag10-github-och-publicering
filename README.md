@@ -11,7 +11,7 @@ kunskap och nya färdigheter.
 ## Test site
 
 Det går att se denna site på följande länk :
-()[https://winstrand.github.io/]
+(https://winstrand.github.io/martin-m4-dag10-github-och-publicering/)[https://winstrand.github.io/martin-m4-dag10-github-och-publicering/]
 
 ## Utveklare
 
