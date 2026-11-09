@@ -8,6 +8,12 @@ Detta är en del i utbildningen UI/UX & Frontendutvekling som är
 en arbetsmarknadsutbildning. Jag går den för att skaffa mig ny 
 kunskap och nya färdigheter. 
 
+## Tekniker använda på sidan
+
+Den här sidan är bygd men HTML5 och CSS3 enligt BP. Det vill säga semantiskt uppbygd och veriferad mot WCAG2.2
+
+Jag har också använd mig av git och GitHub för att versionshantera repositorit. Och då har jag lärt mig att använda kommandona 'add', 'commit' 'push', 'pull', 'status' och 'remote' för att nämna några.
+
 ## Test site
 
 Det går att se denna site på följande länk :
